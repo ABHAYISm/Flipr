@@ -24,7 +24,7 @@ A Mobile appplication created to ease the process of figuiring out the stock dat
 
 ## App
 
-![Application logo](https://drive.google.com/drive/folders/1MbC_7W8qxTUirJlSr0KGldeBfPyRSRFs?usp=sharing)
+![WhatsApp Image 2023-01-16 at 01 02 50](https://user-images.githubusercontent.com/101652869/212563487-511a0760-b593-4918-bb95-fe9b87467272.jpeg)
 
 [Download Application Apk from here](https://drive.google.com/drive/u/0/folders/1GmmpBvUy5m4wy0AmUmKOeVHzd_PrG16D)
 
