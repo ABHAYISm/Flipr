@@ -24,7 +24,7 @@ A Mobile appplication created to ease the process of figuiring out the stock dat
 
 ## App
 
-![Application logo](https://firebasestorage.googleapis.com/v0/b/summarize-blank.appspot.com/o/app_logo.png?alt=media&token=c5b815db-72ad-4a25-ace2-84e175aa71c3 "Application Logo")
+![Application logo]([https://firebasestorage.googleapis.com/v0/b/summarize-blank.appspot.com/o/app_logo.png?alt=media&token=c5b815db-72ad-4a25-ace2-84e175aa71c3 "Application Logo"](https://drive.google.com/drive/folders/1MbC_7W8qxTUirJlSr0KGldeBfPyRSRFs?usp=sharing))
 
 [Download Application Apk from here](https://drive.google.com/drive/u/0/folders/1GmmpBvUy5m4wy0AmUmKOeVHzd_PrG16D)
 
