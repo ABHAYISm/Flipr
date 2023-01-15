@@ -24,37 +24,30 @@ A Mobile appplication created to ease the process of figuiring out the stock dat
 
 ## App
 
-![WhatsApp Image 2023-01-16 at 01 02 50](https://user-images.githubusercontent.com/101652869/212563487-511a0760-b593-4918-bb95-fe9b87467272.jpeg)
+![Logo_1](https://user-images.githubusercontent.com/101652869/212565407-374229bd-d347-4ac4-acdc-88b9e72683e9.png)
+
 
 [Download Application Apk from here](https://drive.google.com/drive/u/0/folders/1GmmpBvUy5m4wy0AmUmKOeVHzd_PrG16D)
 
 
-## Figma
+## Canva Presentation
 
 
 The detailed of every feature can be viewed from the following link:
 
 [Presentation Link for App](https://drive.google.com/file/d/1aLI2gA5H24E-qQ2-HYcUvYT3WSMB9Jt9/view?usp=sharing)
 
-[Figma](https://www.figma.com/proto/MK3D07cPicKCICi94W7xRs/Winter-Challenge-Abstract-%3A-CodeQ?page-id=0%3A1&node-id=452%3A1017&viewport=241%2C48%2C0.95&scaling=scale-down&starting-point-node-id=217%3A25)
 
 ### TechStack and Libraries Used :
 
-* Android Studio (Java + XML)
+* Android Studio (Flutter)
 * Material UI Components
-* MVVM Architechture
-* eazegraph
-* okhttp
-* Volley
-* Glide
-* Gson
-* zxing
-
+* Node js
+* MongoDb (mongoose)
+* Render(For Deploying)
+* Flutter Fusion charts
     
 
-## Server 
-
-[Server Code](https://github.com/Tarun-108/JangaranaServer)
 
 ### NodeJs Server dependencies used :
 
