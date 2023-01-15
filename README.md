@@ -24,7 +24,8 @@ A Mobile appplication created to ease the process of figuiring out the stock dat
 
 ## App
 
-![Logo_1](https://user-images.githubusercontent.com/101652869/212565407-374229bd-d347-4ac4-acdc-88b9e72683e9.png)
+![Logo_2](https://user-images.githubusercontent.com/101652869/212565755-84a858bd-ce08-4d07-9c05-aca4f7cbc027.png)
+
 
 
 [Download Application Apk from here](https://drive.google.com/drive/u/0/folders/1GmmpBvUy5m4wy0AmUmKOeVHzd_PrG16D)
