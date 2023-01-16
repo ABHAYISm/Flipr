@@ -38,7 +38,7 @@ A Mobile appplication created to ease the process of figuiring out the stock dat
 
 The detailed of every feature can be viewed from the following link:
 
-[Presentation Link for App](https://drive.google.com/file/d/1aLI2gA5H24E-qQ2-HYcUvYT3WSMB9Jt9/view?usp=sharing)
+[Presentation Link for App](https://drive.google.com/drive/u/0/folders/1MbC_7W8qxTUirJlSr0KGldeBfPyRSRFs)
 
 
 ### TechStack and Libraries Used :
