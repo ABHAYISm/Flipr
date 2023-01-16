@@ -71,5 +71,8 @@ The detailed of every feature can be viewed from the following link:
 
 [Desktop Application](https://drive.google.com/drive/u/0/folders/1O__LHLgrVbhLos2XO6z1Grzuy_WNpjpA)
 
+* Run flipr.exe for the Application.
+
+
  
     
