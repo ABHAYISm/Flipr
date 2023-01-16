@@ -6,6 +6,8 @@ Ashok Leyland, Cipla, Tata Steel, Eicher Motors)
 
 A Mobile appplication created to ease the process of figuiring out the stock data of Companies with a higher effeciency.
 
+####(The Main code is available in master branch)
+
 
 ### Features of the Application
 
@@ -73,6 +75,7 @@ The detailed of every feature can be viewed from the following link:
 
 * Run flipr.exe for the Application.
 
+###
 
  
     
