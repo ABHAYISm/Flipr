@@ -38,7 +38,7 @@ A Mobile appplication created to ease the process of figuiring out the stock dat
 
 The detailed of every feature can be viewed from the following link:
 
-[Presentation Link for App](https://drive.google.com/drive/u/0/folders/1MbC_7W8qxTUirJlSr0KGldeBfPyRSRFs)
+[Presentation , LOGO , Video of working  Application](https://drive.google.com/drive/u/0/folders/1MbC_7W8qxTUirJlSr0KGldeBfPyRSRFs)
 
 
 ### TechStack and Libraries Used :
@@ -66,7 +66,10 @@ The detailed of every feature can be viewed from the following link:
         "morgan": "^1.10.0"
         "nodemon": "^2.0.20"
         "start": "nodemon server.js"
+        
+### Dekstop Application
 
+[Desktop Application](https://drive.google.com/drive/u/0/folders/1O__LHLgrVbhLos2XO6z1Grzuy_WNpjpA)
 
  
     
